@@ -1,16 +1,6 @@
-
-while (condition) do
-  
-end
-
-
-
- = 0 
-count = 10
-
-while count > 0 && count != happy_new_year do
-  break if count == happy_new_year
-  puts "#{count}"
+count = 10 
+while count >= 1 do
+  puts #{count}
   count -= 1 
 end
-puts happy_new_year
+puts "Happy New Year!"
