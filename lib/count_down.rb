@@ -1,4 +1,11 @@
-happy_new_year = 0 
+
+while (condition) do
+  
+end
+
+
+
+ = 0 
 count = 10
 
 while count > 0 && count != happy_new_year do
